@@ -4,6 +4,6 @@ pandas
 Pillow
 plotly
 scipy
-scikit-learn>=0.18
+scikit-learn
 streamlit
 yfinance
